@@ -34,13 +34,14 @@ Repositorio de trabajo del **Grupo 4** para el proyecto de **Ingeniería en Soft
 ```
 IS2-4SA-G4-control-cana-finca-stefanny/
 ├── README.md                  ← este archivo
+├── 00_gestion/                ← plan, informe de factibilidad, plantilla y análisis de la tesis
 ├── 01_tesis/                  ← tesis de origen (PDF)
 ├── 02_historias/              ← historias de usuario y tablero
-├── 03_bpmn/                   ← diagramas de proceso
-│   ├── asis.drawio · asis.png
-│   └── tobe.drawio · tobe.png
-├── 04_documento/              ← documento de entrega
-└── 06_uml_comportamiento/     ← diagramas UML de comportamiento (S5, corregidos) + documento
+├── 03_bpmn/                   ← diagramas de proceso (as-is / to-be)
+├── 04_documento/              ← taller BPMN
+├── 05_checkins/               ← check-ins del proyecto (CHK1, CHK2)
+├── 06_uml_comportamiento/     ← UML de comportamiento (S5, corregido) + documento
+└── 07_clases_er_diccionario/  ← taller S6: diagrama de clases, E-R y diccionario + documento
 ```
 
 Los diagramas se guardan en **`.drawio`** (editable y comparable en Git) y en **`.png`**
