@@ -39,7 +39,8 @@ IS2-4SA-G4-control-cana-finca-stefanny/
 ├── 03_bpmn/                   ← diagramas de proceso
 │   ├── asis.drawio · asis.png
 │   └── tobe.drawio · tobe.png
-└── 04_documento/              ← documento de entrega
+├── 04_documento/              ← documento de entrega
+└── 06_uml_comportamiento/     ← diagramas UML de comportamiento (S5, corregidos) + documento
 ```
 
 Los diagramas se guardan en **`.drawio`** (editable y comparable en Git) y en **`.png`**
